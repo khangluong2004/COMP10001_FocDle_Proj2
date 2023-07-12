@@ -24,7 +24,7 @@ The format of the FoCdle is always:
  
  The result is a non-zero non-negative integer also expressed without any leading zeros. 
  
- The four possible operators are "+", "-", "*", "%", all with exactly the same interpretation as in Python, and with the same precedence as in Python ("*" and "%" are carried out before either of "+" or "-").
+ The four possible operators are "+", "-", " * ", "%", all with exactly the same interpretation as in Python, and with the same precedence as in Python (" * " and "%" are carried out before either of "+" or "-").
 
  ![Alt text](FocDle_img.png)
 
