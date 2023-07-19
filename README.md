@@ -61,6 +61,5 @@ Max guesses: 8
 Min guesses: 3
 ```
 
-Some secrets (at short length) are time-consuming to generate, so might be skipped. Exhaustive testing to be done in the future :D
 
 Managed to get into top 10 of class. Top 1 code here: https://github.com/Troppydash/FoCdle.git
